@@ -2,7 +2,7 @@
   <img src="https://cdn2.iconfinder.com/data/icons/space-82/64/darth-vader-256.png" alt="Darth Vader" />
 </h3>
 
-<h1 align="center">Project Vader</h1>
+<h1 align="center">My Portfolio</h1>
 
 <h3 align="center">Website portfolio</h3>
 
@@ -10,10 +10,8 @@
 
 Website desenvolvido com o intuito de documentar minha carreira na programação e mostrar meus projetos pessoais.
 
-<img src="https://i.imgur.com/0n563hz.png" />
-
 <h3 align="center">
-  <a align="center" href="https://joao-garcia.vercel.app">Visitar website</a>
+  <a align="center" href="">Visitar website</a>
 </h3>
 
 ## Tecnologias utilizadas
@@ -30,4 +28,4 @@ O website ainda está em desenvolvimento e não está 100% finalizado
 - Melhoria na descrições dos projetos com modais
 - Contato
 
-Made with 💜 by João Garcia 👋 [Veja meu Linkedin](https://www.linkedin.com/in/joão-vitor-garcia-89bba81b1/)
+Made with 💜 by Diego Lucas 👋 [Veja meu Linkedin](https://www.linkedin.com/in/diego-lucas-293682181/)
