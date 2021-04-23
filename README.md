@@ -1,7 +1,3 @@
-<h3 align="center">
-  <img src="https://cdn2.iconfinder.com/data/icons/space-82/64/darth-vader-256.png" alt="Darth Vader" />
-</h3>
-
 <h1 align="center">My Portfolio</h1>
 
 <h3 align="center">Website portfolio</h3>
