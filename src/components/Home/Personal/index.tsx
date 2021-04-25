@@ -19,7 +19,7 @@ export function HomePersonal() {
           <button type="button">Mais sobre mim</button>
           </Link>
         </div>
-        <img src="/guy-coding.svg" alt="João Vitor"/>
+        <img src="/guy-coding.svg" alt="Diego"/>
       </main>
     </Container>
   );

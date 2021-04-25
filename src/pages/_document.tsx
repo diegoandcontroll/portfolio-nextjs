@@ -32,7 +32,7 @@ export default class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <link rel="icon" href="http://pngwebicons.com/uploads/anime/ico/anime_icon6576.ico" type="image/x-icon" />
+          <link rel="shortcut icon" href="https://image.pngaaa.com/441/1727441-middle.png" type="image/png"/>
           <link rel="preconnect" href="https://fonts.gstatic.com" />
           <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet" />
         </Head>
